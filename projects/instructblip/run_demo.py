@@ -1,3 +1,5 @@
+import os
+os.environ['CUDA_VISIBLE_DEVICES'] = '2'
 import gradio as gr
 from lavis.models import load_model_and_preprocess
 import torch

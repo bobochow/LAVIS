@@ -157,3 +157,6 @@ debug*/
 *.pdf
 
 cache/
+
+contrastive_decoding/results
+data
